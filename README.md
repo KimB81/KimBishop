@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KimB81
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning the level 5 diploma in Web Applications with Code Institute through Newcastle College
+- 👋 Hi, I’m Kim
+- 👀 I’m interested in expanding my knowledge in HTML/CSS so I can learn how to create beautiful websites
+- 🌱 I’m currently working as Customer Service
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
